@@ -1,2 +1,2 @@
-# website_floating_wsp
-Floating whatsapp button for the Odoo website
+# website_message_whatsapp
+Website whatsapp button for the Odoo website
