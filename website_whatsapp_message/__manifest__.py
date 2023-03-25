@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-{   'name': 'WhatsApp Website',
+{   'name': 'WhatsApp Website Message',
     'version': '16.0',
     'author': "SOFT GUIDE TECH",
     'description': """
